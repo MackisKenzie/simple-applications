@@ -1,0 +1,11 @@
+C:\Users\golde\Desktop\CISS 160\DivisionDecVsMod.MackenziePeoplesMiranda\bin\Debug\DivisionDecVsMod.MackenziePeoplesMiranda.exe.config
+C:\Users\golde\Desktop\CISS 160\DivisionDecVsMod.MackenziePeoplesMiranda\bin\Debug\DivisionDecVsMod.MackenziePeoplesMiranda.exe
+C:\Users\golde\Desktop\CISS 160\DivisionDecVsMod.MackenziePeoplesMiranda\bin\Debug\DivisionDecVsMod.MackenziePeoplesMiranda.pdb
+C:\Users\golde\Desktop\CISS 160\DivisionDecVsMod.MackenziePeoplesMiranda\obj\Debug\DivisionDecVsMod.MackenziePeoplesMiranda.csproj.AssemblyReference.cache
+C:\Users\golde\Desktop\CISS 160\DivisionDecVsMod.MackenziePeoplesMiranda\obj\Debug\DivisionDecVsMod.MackenziePeoplesMiranda.csproj.SuggestedBindingRedirects.cache
+C:\Users\golde\Desktop\CISS 160\DivisionDecVsMod.MackenziePeoplesMiranda\obj\Debug\DivisionDecVsMod.MackenziePeoplesMiranda.Form1.resources
+C:\Users\golde\Desktop\CISS 160\DivisionDecVsMod.MackenziePeoplesMiranda\obj\Debug\DivisionDecVsMod.MackenziePeoplesMiranda.Properties.Resources.resources
+C:\Users\golde\Desktop\CISS 160\DivisionDecVsMod.MackenziePeoplesMiranda\obj\Debug\DivisionDecVsMod.MackenziePeoplesMiranda.csproj.GenerateResource.cache
+C:\Users\golde\Desktop\CISS 160\DivisionDecVsMod.MackenziePeoplesMiranda\obj\Debug\DivisionDecVsMod.MackenziePeoplesMiranda.csproj.CoreCompileInputs.cache
+C:\Users\golde\Desktop\CISS 160\DivisionDecVsMod.MackenziePeoplesMiranda\obj\Debug\DivisionDecVsMod.MackenziePeoplesMiranda.exe
+C:\Users\golde\Desktop\CISS 160\DivisionDecVsMod.MackenziePeoplesMiranda\obj\Debug\DivisionDecVsMod.MackenziePeoplesMiranda.pdb

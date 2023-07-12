@@ -1,0 +1,5 @@
+Verified that numbers must be entered
+
+Verified that the user cannot divide by zero
+
+Verified that all resulting values are correct from the user's inputs
